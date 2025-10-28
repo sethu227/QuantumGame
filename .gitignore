@@ -1,0 +1,12 @@
+backend/node_modules/
+frontend/node_modules/
+backend/package-lock.json
+frontend/package-lock.json
+frontend/dist/
+.DS_Store
+Thumbs.db
+**/.env
+.env.local
+.vite/
+.vercel/
+.cache/
